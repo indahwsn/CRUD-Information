@@ -1,2 +1,2 @@
 # CRUD-Information
-This is made when Kominfo Certification.
+This was made when Kominfo Certification.
